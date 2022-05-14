@@ -1,0 +1,371 @@
+
+
+/*For Tablet Layout*/
+@media (max-width: 1400px) {
+    a.mas-demo-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+}
+
+
+/*For bigger screen then normal 960px desktop*/
+@media (max-width: 1199px) {
+
+    h1,
+    .h1 {
+        font-size: 60px;
+        line-height: 68px;
+    }
+
+    .site-menu-main .nav-link-item {
+        padding-left: 13px !important;
+        padding-right: 13px !important;
+    }
+
+    h2,
+    .h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    h3,
+    .h3 {
+        font-size: 18px;
+    }
+
+    .section-padding,
+    .landex-skillbar-section {
+        padding: 95px 0 100px;
+    }
+
+    .landex-service-section.padding-less-bottom,
+    .testimonial-page-section,
+    .landex-portfolio-section.padding-less-bottom {
+        padding: 95px 0 76px;
+    }
+
+    .landex-skillbar-section {
+        padding: 120px 0 100px;
+    }
+
+    .landex-blog-section.padding-less-bottom {
+        padding: 95px 0 70px;
+    }
+
+    .landex-social ul li {
+        margin: 0 10px;
+    }
+
+    .landex-team-data {
+        padding: 15px;
+    }
+
+    .landex-testimonial-section {
+        padding: 100px 0 160px;
+    }
+
+    .service-one .landex-default-content {
+        margin: 0 0 30px;
+    }
+
+    .landex-skill-section .landex-default-content {
+        margin: 0;
+    }
+
+    .landex-skill-thumb {
+        width: 68%;
+        margin-left: 32%;
+    }
+
+    .landex-skill-card {
+        width: 55%;
+        left: -44%;
+    }
+
+    .landex-company-section {
+        padding: 155px 0 95px;
+    }
+
+    .landex-company-thumb1 {
+        width: 59%;
+        margin-left: 23%;
+    }
+
+    .landex-team-thumb {
+        height: 250px;
+    }
+
+    .landex-testimonial-item p {
+        font-size: 16px;
+    }
+
+    .landex-testimonial-item {
+        padding: 30px;
+    }
+
+    .landex-testimonial-thumb {
+        margin-right: 15px;
+    }
+
+    .landex-testimonial-slider .owl-nav {
+        position: inherit;
+        left: inherit;
+        bottom: -60px;
+    }
+
+    .landex-blog-wrap {
+        margin-bottom: 30px;
+    }
+
+    .footer-home .landex-footer-widget {
+        margin-left: 15px;
+    }
+
+    /*v2*/
+    .landex-hero-section.landex-hero-section2:after,
+    .landex-hero-section.landex-hero-section2:before {
+        left: -28vw;
+        ;
+        border-radius: 0 0 50% 50%;
+    }
+
+    .landex-service-wrap.landex-service-wrap2 {
+        padding: 40px 20px;
+    }
+
+    .landex-skillbar-section .landex-default-content.landex-default-content2 {
+        margin-right: 0;
+    }
+
+    .landex-team-section.padding-less-bottom {
+        padding: 95px 0 100px;
+    }
+
+    .landex-testimonial-section.landex-testimonial-section2 {
+        padding: 100px 0 165px;
+    }
+
+    .landex-testimonial-slider2 .owl-prev,
+    .landex-testimonial-slider2 .owl-next {
+        left: -100px;
+    }
+
+    .landex-testimonial-slider2 .owl-next {
+        left: auto;
+        right: -100px;
+    }
+
+    .landex-textarea {
+        margin-right: 68px;
+        margin-bottom: 30px;
+    }
+
+    /*v3*/
+
+    .hero-thumb {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .landex-hero-content.landex-hero-content3 h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .landex-hero-button3.landex-hero-button p {
+        margin: 0;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+
+    .hero-thumb {
+        position: relative;
+        left: 0;
+    }
+
+    .home-three.landex-about-section {
+        padding: 125px 0 100px;
+    }
+
+    .landex-hero-section.landex-hero-section3 {
+        min-height: 700px;
+    }
+
+    .landex-pricing-section .landex-default-content.m_0 {
+        margin-bottom: 30px;
+    }
+
+    .landex-dots3 {
+        display: none;
+    }
+
+    .landex-cta-section {
+        background-position: center center;
+    }
+
+    /*about page*/
+    .landex-story-section {
+        padding: 126px 0 100px;
+    }
+
+    .landex-inner-section {
+        padding: 160px 0 100px;
+    }
+
+    .landex-story-section .dot-shape.dot-shape2 {
+        right: -7%;
+        bottom: -9%;
+    }
+
+    .landex-about-section.landex-about-page {
+        padding: 100px 0;
+    }
+
+    .landex-about-thumb2 {
+        right: -34%;
+    }
+
+    /*contact page*/
+    .landex-contact-info {
+        margin-right: 30px;
+    }
+
+    .landex-contact-form {
+        margin-left: 30px;
+    }
+
+    /*term & condition page*/
+    .landex-terms-condition-wrap {
+        padding: 60px;
+    }
+
+    /*portfolio page*/
+    .landex-portfolio-thumb {
+        height: auto;
+    }
+
+    .landex-thumb1-slider-item {
+        margin-bottom: 30px;
+    }
+
+    .landex-thumb2-slider-item {
+        height: auto;
+    }
+
+    .landex-thumb2-slider .owl-dots {
+        margin-top: 40px;
+    }
+
+    /*blog page*/
+    .blog-page .landex-blog-wrap {
+        display: block;
+    }
+
+    .blog-page .landex-blog-content {
+        padding: 25px 0 0;
+    }
+
+    .blog-page.blog-sidebar-page .landex-blog-wrap {
+        padding: 20px;
+    }
+
+    .meta ul li {
+        margin-right: 15px;
+    }
+
+    .landex-recent-post-item {
+        padding: 0;
+    }
+
+    .landex-sidebar-widget {
+        padding: 20px;
+    }
+
+    .landex-catogories ul li a {
+        padding: 17px 39px;
+    }
+
+    .landex-catogories ul li a:before {
+        left: 15px;
+        top: 25px;
+    }
+
+    .blog-single .media {
+        height: auto;
+    }
+
+    /*careers page*/
+    .landex-careers-section .landex-default-content {
+        margin-left: 40px;
+    }
+
+    .landex-job-wrap {
+        padding: 25px;
+        margin-bottom: 40px;
+    }
+
+    .landex-single-careers-wrap {
+        margin-right: 50px;
+    }
+
+    .landex-job-wrap {
+        padding: 15px;
+    }
+
+    .landex-job-wrap h3 {
+        font-size: 17px;
+    }
+
+    /*faq page*/
+    .landex-faq-sidebar {
+        padding: 25px;
+    }
+
+    .faq-page-section .landex-section-title {
+        margin-bottom: 60px
+    }
+
+    /*404 page*/
+    .landex-page404-section {
+        padding: 215px 0 100px;
+    }
+
+    /*account page*/
+    .landex-account-logo {
+        margin-bottom: 80px;
+    }
+
+    .landex-account-box {
+        padding: 80px 65px;
+    }
+
+    .landex-account-box.landex-account-box2 {
+        padding: 80px;
+    }
+
+
+}
+
+/*For Tablet Layout*/
+@media (max-width: 991px) {
+    .mas-demo-wrap {
+        margin-bottom: 30px;
+    }
+}
+
+/*For Wide Mobile Layout*/
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 575px) {
+
+}
+
+/*For 320-384px up Mobile Layout*/
+
+@media (max-width: 479px) {
+
+  
+}
